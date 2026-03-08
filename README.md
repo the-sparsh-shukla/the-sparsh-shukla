@@ -1,48 +1,37 @@
+<!-- MATRIX HEADER -->
+
 <div align="center">
 
-# 👋 Hi, I'm Sparsh Shukla
-
-### 🚀 Full Stack Developer | Web3 Enthusiast | AI Explorer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Builder;AI+Explorer;Open+Source+Contributor;Always+Learning+New+Tech">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=200&section=header&text=Sparsh%20Shukla&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🎮 Coding Mode
 
-🎓 Student Developer  
-💻 Passionate about **Web Development & Web3**  
-🤖 Exploring **Artificial Intelligence & Automation**  
-🚀 Love building **real-world tech projects**  
-🌱 Currently learning **Full Stack Development & Blockchain**
+<p align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+
+</p>
 
 ---
 
-# 🚀 Tech Stack
+# 👋 About Me
 
-### Programming Languages
+💻 Developer passionate about building tech that solves real problems  
+🚀 Exploring **Full Stack Development, Web3 and AI**  
+🧠 Always learning new tools and technologies  
+⚡ Love contributing to **open source projects**
 
-<p>
+---
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+# ⚙️ Tech Stack
 
-</p>
+<p align="center">
 
-### Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
-
-</p>
-
-### Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,git,github,vscode" />
 
 </p>
 
@@ -52,9 +41,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-sparsh-shukla&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=the-sparsh-shukla&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-sparsh-shukla&layout=compact&theme=tokyonight&hide_border=true">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-sparsh-shukla&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -64,17 +53,37 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-sparsh-shukla&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-sparsh-shukla&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-sparsh-shukla&theme=tokyo-night">
+<img src="https://github-profile-trophy.vercel.app/?username=the-sparsh-shukla&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-sparsh-shukla&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🔥 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-sparsh-shukla&theme=tokyonight"/>
 
 </p>
 
@@ -84,17 +93,27 @@
 
 <p align="center">
 
-<img src="https://github.com/the-sparsh-shukla/the-sparsh-shukla/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/the-sparsh-shukla/the-sparsh-shukla/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 👀 Profile Visitors
+# 🧠 AI Quote
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=the-sparsh-shukla&label=Profile%20views&color=0e75b6&style=flat">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=the-sparsh-shukla&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
 
@@ -118,6 +137,6 @@
 
 <div align="center">
 
-⭐ From [the-sparsh-shukla](https://github.com/the-sparsh-shukla)
+💡 *"Code. Learn. Build. Repeat."*
 
 </div>

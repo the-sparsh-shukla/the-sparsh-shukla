@@ -18,8 +18,6 @@
 <a href="https://github.com/the-sparsh-shukla"><img height="170" src="https://github-readme-stats.vercel.app/api?username=the-sparsh-shukla&show_icons=true&hide_border=true&bg_color=070b16&title_color=42d9ff&text_color=f3f6ff&icon_color=247bff" alt="GitHub statistics" /></a>
 <a href="https://github.com/the-sparsh-shukla"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-sparsh-shukla&layout=compact&hide_border=true&bg_color=070b16&title_color=42d9ff&text_color=f3f6ff" alt="Top languages" /></a>
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=the-sparsh-shukla&bg_color=070b16&color=f3f6ff&line=247bff&point=42d9ff&area=true&hide_border=true)](https://github.com/the-sparsh-shukla)
-
 [![GitHub streak](https://streak-stats.demolab.com?user=the-sparsh-shukla&theme=tokyonight-duo&hide_border=true&background=070B16&ring=247BFF&fire=FF354F&currStreakLabel=42D9FF)](https://github.com/the-sparsh-shukla)
 
 </div>
@@ -28,7 +26,8 @@
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/the-sparsh-shukla/the-sparsh-shukla/output/github-contribution-grid-snake-dark.svg?v=2)
+<!-- This image appears after the Generate contribution snake workflow succeeds. -->
+<img src="https://raw.githubusercontent.com/the-sparsh-shukla/the-sparsh-shukla/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
 

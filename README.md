@@ -1,141 +1,32 @@
-<!-- MATRIX HEADER -->
-
+<!-- Profile README for https://github.com/the-sparsh-shukla -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=200&section=header&text=Sparsh%20Shukla&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+![Hero](./assets/hero.svg)
 
-</div>
+![About](./assets/about-life.svg)
 
----
+![Tech stack](./assets/stack.svg)
 
-# 🎮 Coding Mode
+![Developer ID dashboard](./assets/id-dashboard.svg)
 
-<p align="center">
+## Selected repositories
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+| Repository | What it is | Link |
+|---|---|---|
+| **Datum_Website** | Website repository for the Datum community. | [View repository](https://github.com/the-sparsh-shukla/Datum_Website) |
+| **Student-Performance-Predictor** | Student performance prediction project. | [View repository](https://github.com/the-sparsh-shukla/Student-Performance-Predictor) |
+| **My-Portfolio** | Personal portfolio website. | [View repository](https://github.com/the-sparsh-shukla/My-Portfolio) |
+| **Bridgelabz-Training-1Y** | Java training and practice repository. | [View repository](https://github.com/the-sparsh-shukla/Bridgelabz-Training-1Y) |
 
-</p>
+![Connect](./assets/connect.svg)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-the--sparsh--shukla-111827?style=for-the-badge&logo=github)](https://github.com/the-sparsh-shukla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sparsh-shukla)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/_sparsh.shukla_)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/sparsh_shukla)
 
-# 👋 About Me
+*Learning by building practical projects and contributing to open source.*
 
-💻 Developer passionate about building tech that solves real problems  
-🚀 Exploring **Full Stack Development, Web3 and AI**  
-🧠 Always learning new tools and technologies  
-⚡ Love contributing to **open source projects**
-
----
-
-# ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,git,github,vscode" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=the-sparsh-shukla&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-sparsh-shukla&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-sparsh-shukla&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=the-sparsh-shukla&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-sparsh-shukla&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🔥 3D Contribution Graph
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-sparsh-shukla&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/the-sparsh-shukla/the-sparsh-shukla/output/github-contribution-grid-snake-neon.svg">
-
-</p>
----
-
-# 🧠 AI Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=the-sparsh-shukla&label=Profile%20Views&color=blue&style=flat"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sparsh-shukla">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:reachme.sparshshukla@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-💡 *"Code. Learn. Build. Repeat."*
+The portrait artwork in the SVGs is a placeholder. I will replace it with a personal photo when one is available.
 
 </div>
